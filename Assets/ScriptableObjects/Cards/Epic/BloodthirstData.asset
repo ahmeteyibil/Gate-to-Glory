@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e8ba6e81c6a291489106136c2e8ecaa, type: 3}
+  m_Name: BloodthirstData
+  m_EditorClassIdentifier: 
+  cardID: card_blood_thirst
+  cardName: Bloodthirst
+  description: "Hayatta kalmak i\xE7in gereken y\xFCksek iyile\u015Fme."
+  label: "+%5 Can \xC7alma"
+  icon: {fileID: 0}
+  price: 1000
+  rarity: 3
+  buffs:
+  - statType: 2
+    opType: 1
+    value: 0.05

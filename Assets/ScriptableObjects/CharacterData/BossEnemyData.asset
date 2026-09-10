@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50a72998e9778364e88a6b3fa0b2faed, type: 3}
+  m_Name: BossEnemyData
+  m_EditorClassIdentifier: 
+  characterID: enemy_boss
+  characterName: Boss Enemy
+  prefab: {fileID: 3927457298641209219, guid: 7fa96d6193b62b346bbf7c0790e50a8a, type: 3}
+  baseStats:
+    maxHealth:
+      type: 1
+      value: 5000
+    damage:
+      type: 0
+      value: 200
+    armor:
+      type: 3
+      value: 50
+    lifesteal:
+      type: 2
+      value: 0.04
+    critChance:
+      type: 4
+      value: 0.05
+    critMultiplier:
+      type: 5
+      value: 2
+  characterIcon: {fileID: 0}

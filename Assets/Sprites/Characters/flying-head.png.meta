@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: 4b3e0d3701d0411479babecd7013617f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5923433564486923948
+    second: flying-head_0
+  - first:
+      213: 6803201818706614103
+    second: flying-head_1
+  - first:
+      213: -1047841722378105799
+    second: flying-head_2
+  - first:
+      213: 8690733472912920702
+    second: flying-head_3
+  - first:
+      213: 5031415626459349669
+    second: flying-head_4
+  - first:
+      213: 4347216119840285706
+    second: flying-head_5
+  - first:
+      213: -3820097281261901715
+    second: flying-head_6
+  - first:
+      213: -4013883593728383164
+    second: flying-head_7
+  - first:
+      213: -217200512006700419
+    second: flying-head_8
+  - first:
+      213: -200121015486878656
+    second: flying-head_9
+  - first:
+      213: -8353631297068932056
+    second: flying-head_10
+  - first:
+      213: -1445086708220294966
+    second: flying-head_11
+  - first:
+      213: -4417586169284994221
+    second: flying-head_12
+  - first:
+      213: 2315269161080775451
+    second: flying-head_13
+  - first:
+      213: -5284399189534089158
+    second: flying-head_14
+  - first:
+      213: -2675879593875770074
+    second: flying-head_15
+  - first:
+      213: -4870265119160949499
+    second: flying-head_16
+  - first:
+      213: 1843257838184977822
+    second: flying-head_17
+  - first:
+      213: 8784129990755743913
+    second: flying-head_18
+  - first:
+      213: -6747564771752532684
+    second: flying-head_19
+  - first:
+      213: -9001749331652655281
+    second: flying-head_20
+  - first:
+      213: -1568704082730393460
+    second: flying-head_21
+  - first:
+      213: 9127055507328238239
+    second: flying-head_22
+  - first:
+      213: 6453063873459335496
+    second: flying-head_23
+  - first:
+      213: -3095549486295171862
+    second: flying-head_24
+  - first:
+      213: 2028879416130942662
+    second: flying-head_25
+  - first:
+      213: -7127231947062217295
+    second: flying-head_26
+  - first:
+      213: 2019692014388528897
+    second: flying-head_27
+  - first:
+      213: 503108411256132882
+    second: flying-head_28
+  - first:
+      213: 868537389238987048
+    second: flying-head_29
+  - first:
+      213: 9010788971673538782
+    second: flying-head_30
+  - first:
+      213: 7882022400936151809
+    second: flying-head_31
+  - first:
+      213: -4786743722893003233
+    second: flying-head_32
+  - first:
+      213: 7765374985868060678
+    second: flying-head_33
+  - first:
+      213: 5591507412982316269
+    second: flying-head_34
+  - first:
+      213: 6028936395504916950
+    second: flying-head_35
+  - first:
+      213: -6322211559235603883
+    second: flying-head_36
+  - first:
+      213: -8197669930008855157
+    second: flying-head_37
+  - first:
+      213: 1436353891028073819
+    second: flying-head_38
+  - first:
+      213: -5842679823261406985
+    second: flying-head_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flying-head_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 283
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca67ed57173443250800000000000000
+      internalID: 5923433564486923948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 284
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7579c4b5204d96e50800000000000000
+      internalID: 6803201818706614103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 285
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cc1d451815571f0800000000000000
+      internalID: -1047841722378105799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 278
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7052925c00bb9870800000000000000
+      internalID: 8690733472912920702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 285
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2857ccadd23d540800000000000000
+      internalID: 5031415626459349669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 284
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04aee8470a645c30800000000000000
+      internalID: 4347216119840285706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 219
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68e2fe23c94cfac0800000000000000
+      internalID: -3820097281261901715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_7
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 221
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4472d025322db48c0800000000000000
+      internalID: -4013883593728383164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_8
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 222
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72ceccf8495cfcf0800000000000000
+      internalID: -217200512006700419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_9
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 217
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c60d72ff6093df0800000000000000
+      internalID: -200121015486878656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 220
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824ee914890f11c80800000000000000
+      internalID: -8353631297068932056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_11
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 213
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac804e69b4502fbe0800000000000000
+      internalID: -1445086708220294966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_12
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 212
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bd61fc8c491b2c0800000000000000
+      internalID: -4417586169284994221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_13
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 214
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13e2a1090d712020800000000000000
+      internalID: 2315269161080775451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_14
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 213
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3065706fea0aa6b0800000000000000
+      internalID: -5284399189534089158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_15
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 217
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6257151dfad5ddad0800000000000000
+      internalID: -2675879593875770074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_16
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 221
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505af6a8da7596cb0800000000000000
+      internalID: -4870265119160949499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_17
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 220
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e955872ec31949910800000000000000
+      internalID: 1843257838184977822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_18
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 127
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8f9dfafaf77e970800000000000000
+      internalID: 8784129990755743913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_19
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 138
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43520c81795db52a0800000000000000
+      internalID: -6747564771752532684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_20
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 149
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47cbb91dac531380800000000000000
+      internalID: -9001749331652655281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_21
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 157
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c806627b2f7da3ae0800000000000000
+      internalID: -1568704082730393460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_22
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 156
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92829f60a0d9ae70800000000000000
+      internalID: 9127055507328238239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_23
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 127
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84133723763ed8950800000000000000
+      internalID: 6453063873459335496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_24
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 127
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecbbb4a4266a05d0800000000000000
+      internalID: -3095549486295171862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_25
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 127
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6369a5417082c10800000000000000
+      internalID: 2028879416130942662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_26
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 133
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b57a8b4e4cf61d90800000000000000
+      internalID: -7127231947062217295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_27
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 91
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1074251bf23670c10800000000000000
+      internalID: 2019692014388528897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_28
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 90
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215de683f666bf600800000000000000
+      internalID: 503108411256132882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_29
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 89
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8292cbf572aad0c00800000000000000
+      internalID: 868537389238987048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_30
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 82
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0db9a14d0cc0d70800000000000000
+      internalID: 9010788971673538782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_31
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 93
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b8877ec91926d60800000000000000
+      internalID: 7882022400936151809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_32
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 92
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16b12ef1f1129db0800000000000000
+      internalID: -4786743722893003233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_33
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 27
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608ae5c286724cb60800000000000000
+      internalID: 7765374985868060678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_34
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 9
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec36c5fd56099d40800000000000000
+      internalID: 5591507412982316269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_35
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d99e7385b51ba350800000000000000
+      internalID: 6028936395504916950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_36
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552b4e8551ef248a0800000000000000
+      internalID: -6322211559235603883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_37
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 0
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8dbbebb1a60c3e80800000000000000
+      internalID: -8197669930008855157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_38
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d7a76f044fee310800000000000000
+      internalID: 1436353891028073819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-head_39
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 0
+        width: 37
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8692618a1aaeea0800000000000000
+      internalID: -5842679823261406985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      flying-head_0: 5923433564486923948
+      flying-head_1: 6803201818706614103
+      flying-head_10: -8353631297068932056
+      flying-head_11: -1445086708220294966
+      flying-head_12: -4417586169284994221
+      flying-head_13: 2315269161080775451
+      flying-head_14: -5284399189534089158
+      flying-head_15: -2675879593875770074
+      flying-head_16: -4870265119160949499
+      flying-head_17: 1843257838184977822
+      flying-head_18: 8784129990755743913
+      flying-head_19: -6747564771752532684
+      flying-head_2: -1047841722378105799
+      flying-head_20: -9001749331652655281
+      flying-head_21: -1568704082730393460
+      flying-head_22: 9127055507328238239
+      flying-head_23: 6453063873459335496
+      flying-head_24: -3095549486295171862
+      flying-head_25: 2028879416130942662
+      flying-head_26: -7127231947062217295
+      flying-head_27: 2019692014388528897
+      flying-head_28: 503108411256132882
+      flying-head_29: 868537389238987048
+      flying-head_3: 8690733472912920702
+      flying-head_30: 9010788971673538782
+      flying-head_31: 7882022400936151809
+      flying-head_32: -4786743722893003233
+      flying-head_33: 7765374985868060678
+      flying-head_34: 5591507412982316269
+      flying-head_35: 6028936395504916950
+      flying-head_36: -6322211559235603883
+      flying-head_37: -8197669930008855157
+      flying-head_38: 1436353891028073819
+      flying-head_39: -5842679823261406985
+      flying-head_4: 5031415626459349669
+      flying-head_5: 4347216119840285706
+      flying-head_6: -3820097281261901715
+      flying-head_7: -4013883593728383164
+      flying-head_8: -217200512006700419
+      flying-head_9: -200121015486878656
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

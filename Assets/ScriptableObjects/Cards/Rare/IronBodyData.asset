@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e8ba6e81c6a291489106136c2e8ecaa, type: 3}
+  m_Name: IronBodyData
+  m_EditorClassIdentifier: 
+  cardID: card_iron_body
+  cardName: Iron Body
+  description: "G\xFC\xE7l\xFC d\xFC\u015Fmanlara kar\u015F\u0131 dayan\u0131kl\u0131l\u0131k
+    sa\u011Flar."
+  label: "+25 Z\u0131rh"
+  icon: {fileID: 0}
+  price: 350
+  rarity: 2
+  buffs:
+  - statType: 3
+    opType: 1
+    value: 25
