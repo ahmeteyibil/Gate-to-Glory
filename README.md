@@ -16,6 +16,11 @@ This project focuses on scalable and optimized software engineering practices fo
 * **Data Management:** Leverages custom `ScriptableObjects` to modularize character base stats, gate sets, and card data.
 * **UI Optimization:** Built with DOTween pipelines to handle real-time stat modifications and layout transitions without triggering expensive Canvas layout rebuilds.
 
+## Gameplay Screenshots
+
+![Flight Phase and HUD](Screenshots/gameplay_investment.png)
+![Draft Market Phase](Screenshots/gameplay_reward.png)
+
 ## 🚀 Roadmap & Future Development
 As this is currently an MVP, commercial balance systems are intentionally excluded. The upcoming development pipeline includes:
 * **Difficulty Budgeting Algorithm:** Implementing a dynamic scaling system that adjusts enemy stats based on the real-time "Player Power Score".
