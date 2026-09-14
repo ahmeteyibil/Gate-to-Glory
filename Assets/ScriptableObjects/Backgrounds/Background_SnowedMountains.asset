@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0ac7b910247560043956594f5f936ddf, type: 3}
-  m_Name: DefaultBackground
+  m_Name: Background_SnowedMountains
   m_EditorClassIdentifier: 
-  backgroundID: background_default
+  backgroundID: background_SnowedMountains
   backgroundSprite: {fileID: 4160706031540232488, guid: aca570b8e9da3f344a1556d4acf5f630, type: 3}

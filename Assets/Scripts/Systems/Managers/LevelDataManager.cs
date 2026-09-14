@@ -15,7 +15,6 @@ public class LevelDataManager : MonoBehaviour
     }
     public LevelData LoadLevelData(int levelID) 
     {
-
         string resourcePath = $"Level_{levelID}";
         TextAsset jsonFile = Resources.Load<TextAsset>(resourcePath);
 
@@ -67,5 +66,22 @@ public class LevelDataManager : MonoBehaviour
         {
             Debug.LogError($"Kaydetme hatasý: {e.Message}");
         }
+    }
+    public int GetLevelCount()
+    {
+        int currentID = 1;
+        int result = 0;
+        while (true)
+        {
+            string resourcePath = $"Level_{currentID}";
+            TextAsset jsonFile = Resources.Load<TextAsset>(resourcePath);
+            if (jsonFile != null)
+            {
+                currentID++;
+                result++;
+            }
+            else break;
+        }
+        return result;
     }
 }

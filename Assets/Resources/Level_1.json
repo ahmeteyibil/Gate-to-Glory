@@ -1,7 +1,7 @@
 {
   "levelID": 1,
   "levelName": "Karlı Dağlar",
-  "backgroundID": "background_default",
+  "backgroundID": "background_SnowedMountains",
   "waves": [
     {
       "waveID": 1,

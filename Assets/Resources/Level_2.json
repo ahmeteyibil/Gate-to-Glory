@@ -1,0 +1,148 @@
+{
+  "levelID": 2,
+  "levelName": "Sıcak ve Tehlikeli",
+  "backgroundID": "background_HotAndDangerous",
+  "waves": [
+    {
+      "waveID": 1,
+      "investmentPhase": {
+        "totalDistance": 30,
+        "gateSets": [
+          {
+            "distanceMark": 10,
+            "gates": [
+              { "type": 1, "value": 30, "isHidden": false, "label": "+30" },
+              { "type": 0, "value": 0.5, "isHidden": true, "label": "?" }
+            ]
+          },
+          {
+            "distanceMark": 20,
+            "gates": [
+              { "type": 0, "value": 2.5, "isHidden": false, "label": "x2.5" },
+              { "type": 1, "value": -30, "isHidden": false, "label": "-30" }
+            ]
+          }
+        ]
+      },
+      "rewardPhase": { "cardPoolID": "common_pool", "cardCount": 3 },
+      "combatPhase": { "enemyID": "enemy_default" }
+    },
+    {
+      "waveID": 2,
+      "investmentPhase": {
+        "totalDistance": 40,
+        "gateSets": [
+          {
+            "distanceMark": 10,
+            "gates": [
+              { "type": 1, "value": 80, "isHidden": false, "label": "+80" },
+              { "type": 0, "value": 2, "isHidden": true, "label": "?" }
+            ]
+          },
+          {
+            "distanceMark": 25,
+            "gates": [
+              { "type": 0, "value": 0.25, "isHidden": false, "label": "/4" },
+              { "type": 1, "value": 150, "isHidden": false, "label": "+150" }
+            ]
+          }
+        ]
+      },
+      "rewardPhase": { "cardPoolID": "uncommon_pool", "cardCount": 3 },
+      "combatPhase": { "enemyID": "enemy_default" }
+    },
+    {
+      "waveID": 3,
+      "investmentPhase": {
+        "totalDistance": 50,
+        "gateSets": [
+          {
+            "distanceMark": 15,
+            "gates": [
+              { "type": 1, "value": -50, "isHidden": false, "label": "-50" },
+              { "type": 0, "value": 3, "isHidden": false, "label": "x3" }
+            ]
+          },
+          {
+            "distanceMark": 30,
+            "gates": [
+              { "type": 1, "value": 200, "isHidden": true, "label": "?" },
+              { "type": 0, "value": 1.5, "isHidden": false, "label": "x1.5" }
+            ]
+          },
+          {
+            "distanceMark": 40,
+            "gates": [
+              { "type": 0, "value": 0.1, "isHidden": true, "label": "?" },
+              { "type": 0, "value": 4, "isHidden": false, "label": "x4" }
+            ]
+          }
+        ]
+      },
+      "rewardPhase": { "cardPoolID": "rare_pool", "cardCount": 3 },
+      "combatPhase": { "enemyID": "enemy_default" }
+    },
+    {
+      "waveID": 4,
+      "investmentPhase": {
+        "totalDistance": 50,
+        "gateSets": [
+          {
+            "distanceMark": 15,
+            "gates": [
+              { "type": 1, "value": 300, "isHidden": false, "label": "+300" },
+              { "type": 0, "value": 2, "isHidden": true, "label": "?" }
+            ]
+          },
+          {
+            "distanceMark": 25,
+            "gates": [
+              { "type": 0, "value": 0.2, "isHidden": false, "label": "/5" },
+              { "type": 1, "value": -100, "isHidden": false, "label": "-100" }
+            ]
+          },
+          {
+            "distanceMark": 40,
+            "gates": [
+              { "type": 0, "value": 5, "isHidden": true, "label": "?" },
+              { "type": 0, "value": 5, "isHidden": true, "label": "?" }
+            ]
+          }
+        ]
+      },
+      "rewardPhase": { "cardPoolID": "rare_pool", "cardCount": 4 },
+      "combatPhase": { "enemyID": "enemy_default" }
+    },
+    {
+      "waveID": 5,
+      "investmentPhase": {
+        "totalDistance": 60,
+        "gateSets": [
+          {
+            "distanceMark": 15,
+            "gates": [
+              { "type": 1, "value": 600, "isHidden": false, "label": "+600" },
+              { "type": 0, "value": 3, "isHidden": false, "label": "x3" }
+            ]
+          },
+          {
+            "distanceMark": 30,
+            "gates": [
+              { "type": 0, "value": 0.5, "isHidden": true, "label": "?" },
+              { "type": 1, "value": 1000, "isHidden": true, "label": "?" }
+            ]
+          },
+          {
+            "distanceMark": 45,
+            "gates": [
+              { "type": 0, "value": 15, "isHidden": false, "label": "x15" },
+              { "type": 1, "value": -500, "isHidden": false, "label": "-500" }
+            ]
+          }
+        ]
+      },
+      "rewardPhase": { "cardPoolID": "epic_pool", "cardCount": 4 },
+      "combatPhase": { "enemyID": "enemy_boss" }
+    }
+  ]
+}

@@ -6196,6 +6196,7 @@ MonoBehaviour:
   emptyHeart: {fileID: -4390673095631447188, guid: 8073232adb9475649b6f9ee9208b96ba, type: 3}
   halfHeart: {fileID: 2139837793675082937, guid: 8073232adb9475649b6f9ee9208b96ba, type: 3}
   enemyDistanceBar: {fileID: 967581934}
+  markerXOffset: -2
   sliderDividerPrefab: {fileID: 8121778193287843740, guid: e1dcf442bbd5720498d72381c5161fda, type: 3}
   pausePanelUI: {fileID: 2028392444}
 --- !u!114 &1353832786
@@ -6227,10 +6228,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -7904,6 +7905,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   backgroundSprites:
   - {fileID: 11400000, guid: f4c23d2ed03878f4b85a1c202d4858d5, type: 2}
+  - {fileID: 11400000, guid: 8ca2a4b1c8415264e9664f5eaf572858, type: 2}
   bgPrefab: {fileID: 5812419254645668688, guid: f488434b833c8434195577936abef70e, type: 3}
   bgParent: {fileID: 874882758}
 --- !u!1 &1773472845
@@ -10172,7 +10174,7 @@ SpriteRenderer:
   m_SortingLayerID: 1379477481
   m_SortingLayer: -1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 4160706031540232488, guid: aca570b8e9da3f344a1556d4acf5f630, type: 3}
+  m_Sprite: {fileID: 4021162129683344541, guid: eadd94a22e5359b43928087a73cf8161, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

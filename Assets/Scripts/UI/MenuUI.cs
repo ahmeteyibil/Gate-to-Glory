@@ -1,16 +1,14 @@
+using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class MenuUI : MonoBehaviour
 {
-    int selectedLevelID = 1;
-    LevelData levelData;
-    public void PlayButtonHandler()
+    [SerializeField] TMP_Text levelNameText;
+
+    public void PlayLevelButtonHandler()
     {
-        levelData = LevelDataManager.Instance.LoadLevelData(selectedLevelID);
-        // Play buton level 1'i açan buton gibi ayarlandý geçci oolarak.
-        Debug.Log("level name: " + levelData.levelName);
-        LevelDataHolder.SetLevelData(levelData);
+        LevelDataHolder.SetLevelData(LevelSwitcher.Instance.ChoosedLevel);
         SceneManager.LoadSceneAsync(SceneName.SN_PLAY);
     }
     public void CharacterButtonHandler()
@@ -20,5 +18,17 @@ public class MenuUI : MonoBehaviour
     public void SettingsButtonHandler()
     {
 
+    }
+    public void PreLevelButtonHandler()
+    {
+        LevelSwitcher.Instance.SwitchToPreLevel();
+    }
+    public void NextLevelButtonHandler()
+    {
+        LevelSwitcher.Instance.SwitchToNextLevel();
+    }
+    public void EditLevelText(int levelID, string levelName)
+    {
+        levelNameText.text = $"Level {levelID}:\n{levelName}";
     }
 }
