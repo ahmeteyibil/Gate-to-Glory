@@ -49,6 +49,7 @@ public class CurrencyManager : MonoBehaviour
     }
     public void MultiplyCoin(float value)
     {
+        //if (coinCount == 0) coinCount = 1;
         coinCount = Mathf.RoundToInt(coinCount * value);
         coinCount = Mathf.Max(0, coinCount);
         OnCoinChanged?.Invoke(coinCount);

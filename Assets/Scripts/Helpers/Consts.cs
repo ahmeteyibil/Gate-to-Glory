@@ -4,7 +4,7 @@ public struct Tags
     public const string TAG_SEED = "Seed";
     public const string TAG_THORN = "Thorn";
     public const string TAG_BOMB = "Bomb";
-    public const string TAG_BG1 = "BG1";
+    public const string TAG_BG = "Background";
     public const string TAG_COIN = "Coin";
     public const string TAG_PLAYER = "Player";
     public const string TAG_ENEMY = "Enemy";

@@ -15,7 +15,7 @@ public class PlayerInteractionController : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.transform.CompareTag(Tags.TAG_BG1))
+        if (collision.transform.CompareTag(Tags.TAG_BG))
         {
             bgCreaterManager.CreateBg();
         }

@@ -16,6 +16,7 @@ TagManager:
   - BG1
   - Coin
   - Enemy
+  - Background
   layers:
   - Default
   - TransparentFX
