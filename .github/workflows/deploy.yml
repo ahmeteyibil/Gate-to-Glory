@@ -1,0 +1,60 @@
+name: Build WebGL & Deploy to Itch.io
+
+on:
+  push:
+    branches:
+      - main # veya master
+
+jobs:
+  build:
+    name: Build WebGL
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: Cache Library
+        uses: actions/cache@v4
+        with:
+          path: Library
+          key: Library-WebGL-${{ hashFiles('Assets/**', 'Packages/**', 'ProjectSettings/**') }}
+          restore-keys: |
+            Library-WebGL-
+
+      - name: Run Unity WebGL Build
+        uses: game-ci/unity-builder@v4
+        env:
+          UNITY_EMAIL: ${{ secrets.UNITY_EMAIL }}
+          UNITY_PASSWORD: ${{ secrets.UNITY_PASSWORD }}
+          UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
+        with:
+          targetPlatform: WebGL
+          buildsPath: build
+
+      - name: Upload Build Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: WebGL-Build
+          path: build/WebGL/WebGL
+
+  deploy:
+    name: Deploy to Itch.io
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download Build Artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: WebGL-Build
+          path: build/WebGL
+
+      - name: Push to Itch.io via Butler
+        uses: JosephMcA/butler-publish-itchio-action@v1.0.3
+        env:
+          BUTLER_CREDENTIALS: ${{ secrets.BUTLER_CREDENTIALS }}
+          CHANNEL: webgl
+          ITCH_GAME: gate-to-glory # Itch.io'daki oyun URL adı
+          ITCH_USER: ahmeteyibil   # Itch.io kullanıcı adın
+          PACKAGE: build/WebGL
