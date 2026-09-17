@@ -51,7 +51,7 @@ jobs:
           path: build/WebGL
 
       - name: Push to Itch.io via Butler
-        uses: JosephMcA/butler-publish-itchio-action@v1.0.3
+        uses: yeslayla/butler-publish-itchio-action@v1.0.3
         env:
           BUTLER_CREDENTIALS: ${{ secrets.BUTLER_CREDENTIALS }}
           CHANNEL: webgl
