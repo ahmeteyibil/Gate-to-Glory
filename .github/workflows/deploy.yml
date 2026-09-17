@@ -54,7 +54,7 @@ jobs:
         uses: Ayowel/butler-to-itch@v2
         with:
           butler_key: ${{ secrets.BUTLER_CREDENTIALS }}
-          itch_user: ahmeteyibil
+          itch_user: ahmet-eyibil
           itch_game: gate-to-glory
           channel: webgl
           path: build/WebGL
