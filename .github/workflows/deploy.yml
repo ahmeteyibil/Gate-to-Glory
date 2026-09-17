@@ -51,10 +51,14 @@ jobs:
           path: build/WebGL
 
       - name: Push to Itch.io via Butler
-        uses: yeslayla/butler-publish-itchio-action@v1.0.3
-        env:
-          BUTLER_CREDENTIALS: ${{ secrets.BUTLER_CREDENTIALS }}
-          CHANNEL: webgl
-          ITCH_GAME: gate-to-glory # Itch.io'daki oyun URL adı
-          ITCH_USER: ahmeteyibil   # Itch.io kullanıcı adın
-          PACKAGE: build/WebGL
+        uses: Ayowel/butler-to-itch@v2
+        with:
+          butler_key: ${{ secrets.BUTLER_CREDENTIALS }}
+          itch_user: ahmeteyibil
+          itch_game: gate-to-glory
+          channel: webgl
+          path: build/WebGL
+          files: |
+            webgl build/WebGL
+
+  
