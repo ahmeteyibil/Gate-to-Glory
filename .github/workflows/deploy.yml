@@ -1,9 +1,7 @@
 name: Build WebGL & Deploy to Itch.io
 
 on:
-  push:
-    branches:
-      - main # veya master
+  workflow_dispatch: # Yalnızca manuel tetiklemeyi aktif eder
 
 jobs:
   build:
